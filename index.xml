@@ -6,13 +6,27 @@
     <description>Recent content on shuxiu</description>
     <image>
       <title>shuxiu</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.1</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 13:49:50 +0800</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 11:11:08 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Plan</title>
+      <link>//localhost:1313/posts/2025-plan/</link>
+      <pubDate>Wed, 01 Jan 2025 11:11:08 +0800</pubDate>
+      <guid>//localhost:1313/posts/2025-plan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 Summary</title>
+      <link>//localhost:1313/posts/2024-summary/</link>
+      <pubDate>Wed, 01 Jan 2025 11:10:31 +0800</pubDate>
+      <guid>//localhost:1313/posts/2024-summary/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>//localhost:1313/posts/my-first-post/</link>
