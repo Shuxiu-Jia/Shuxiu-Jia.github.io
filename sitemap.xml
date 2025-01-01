@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2025-plan/</loc>
+    <loc>https://shuxiu-jia.github.io/posts/2025-plan/</loc>
     <lastmod>2025-01-01T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://shuxiu-jia.github.io/posts/</loc>
     <lastmod>2025-01-01T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://shuxiu-jia.github.io/</loc>
     <lastmod>2025-01-01T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024-summary/</loc>
+    <loc>https://shuxiu-jia.github.io/posts/2024-summary/</loc>
     <lastmod>2025-01-01T11:10:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://shuxiu-jia.github.io/posts/my-first-post/</loc>
     <lastmod>2024-12-30T13:49:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://shuxiu-jia.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://shuxiu-jia.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://shuxiu-jia.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://shuxiu-jia.github.io/tags/</loc>
   </url>
 </urlset>
