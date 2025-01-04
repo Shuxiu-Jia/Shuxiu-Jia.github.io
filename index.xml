@@ -11,8 +11,87 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 09:23:38 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 19:58:41 +0800</lastBuildDate>
     <atom:link href="https://shuxiu-jia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toolbox</title>
+      <link>https://shuxiu-jia.github.io/posts/toolbox/</link>
+      <pubDate>Sat, 04 Jan 2025 19:58:41 +0800</pubDate>
+      <guid>https://shuxiu-jia.github.io/posts/toolbox/</guid>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;h3 id=&#34;tracking-my-use-of-time&#34;&gt;tracking my use of time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;WakaTime: MacOS, IDE&lt;/li&gt;
+&lt;li&gt;Timing: MacOS, pay&lt;/li&gt;
+&lt;li&gt;Calflow: iPhone&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Self-learning</title>
+      <link>https://shuxiu-jia.github.io/posts/my-status/</link>
+      <pubDate>Sat, 04 Jan 2025 18:40:05 +0800</pubDate>
+      <guid>https://shuxiu-jia.github.io/posts/my-status/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;ongoing&#34;&gt;Ongoing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UC Berkeley CS61B: just started.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;to-be-finished&#34;&gt;To be finished&lt;/h3&gt;
+&lt;h4 id=&#34;cs&#34;&gt;CS&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;UC Berkeley CS61A:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;project scheme&lt;/li&gt;
+&lt;li&gt;review and summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harvard CS50x:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lecture week 9: flask&lt;/li&gt;
+&lt;li&gt;lecture week 10: cybersecurity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;MIT 18.06&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;to-learn&#34;&gt;To learn&lt;/h3&gt;
+&lt;h4 id=&#34;cs-1&#34;&gt;CS&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;UC Berkeley CS61C: Great Ideas in Computer Architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mathematics-1&#34;&gt;Mathematics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;MIT 18.01&lt;/li&gt;
+&lt;li&gt;MIT 18.02&lt;/li&gt;
+&lt;li&gt;MIT 6.050j Information And Entropy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;completed&#34;&gt;Completed&lt;/h3&gt;
+&lt;h4 id=&#34;cs-2&#34;&gt;CS&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Harvard CS50P (2024.09)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mathmatics&#34;&gt;Mathmatics&lt;/h4&gt;
+&lt;h4 id=&#34;research&#34;&gt;Research&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dive into Deep Learning by Mu Li (2024.11)&lt;/li&gt;
+&lt;li&gt;Advanced Learning Algorithms by Andrew Ng (2024.09.25)&lt;/li&gt;
+&lt;li&gt;Supervised Machine Learning by Andrew Ng (2024.09.15)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cs61b Notes</title>
+      <link>https://shuxiu-jia.github.io/posts/cs61b-notes/</link>
+      <pubDate>Sat, 04 Jan 2025 18:39:08 +0800</pubDate>
+      <guid>https://shuxiu-jia.github.io/posts/cs61b-notes/</guid>
+      <description>&lt;p&gt;At the beginning of 2025, now I start to learn UC Berkeley &lt;strong&gt;CS 61B&lt;/strong&gt; , which I have been looking forward to for a long time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cmd Notes</title>
       <link>https://shuxiu-jia.github.io/posts/cmd-notes/</link>
@@ -59,6 +138,7 @@ Host: www.example.com
 &lt;li&gt;&lt;a href=&#34;https://nmap.org/ncat/&#34;&gt;Ncat/Nmap&lt;/a&gt;: a feature-packed networking utility which reads and writes data across networks from the command line.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;websites&#34;&gt;Websites&lt;/h2&gt;
+&lt;h3 id=&#34;learning-resource&#34;&gt;learning resource&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/&#34;&gt;MDN Web Docs&lt;/a&gt;:  a comprehensive documentation repository and learning resource for web developers, including CSS, HTML, and JavaScript.&lt;/li&gt;
 &lt;/ul&gt;
