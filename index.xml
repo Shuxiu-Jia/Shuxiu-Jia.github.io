@@ -11,23 +11,8 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 11:06:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 19:58:41 +0800</lastBuildDate>
     <atom:link href="https://shuxiu-jia.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Collect</title>
-      <link>https://shuxiu-jia.github.io/posts/collect/</link>
-      <pubDate>Sun, 05 Jan 2025 11:06:40 +0800</pubDate>
-      <guid>https://shuxiu-jia.github.io/posts/collect/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;(Jan 5, 2025) &lt;a href=&#34;https://www.youtube.com/watch?v=k9WqpQp8VSU&#34;&gt;How I Would Learn To Code (If I Could Start Over)&lt;/a&gt;: a youtube video sharing a path for coding along with some resources
-&lt;ul&gt;
-&lt;li&gt;Adopt a coding mindset: there is always a way to be found; Google search&lt;/li&gt;
-&lt;li&gt;Focus on learing problem-solving (eg. cs50x)&lt;/li&gt;
-&lt;li&gt;Create personal project&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Toolbox</title>
       <link>https://shuxiu-jia.github.io/posts/toolbox/</link>
@@ -109,14 +94,13 @@
       <link>https://shuxiu-jia.github.io/posts/cs61b-notes/</link>
       <pubDate>Sat, 04 Jan 2025 18:39:08 +0800</pubDate>
       <guid>https://shuxiu-jia.github.io/posts/cs61b-notes/</guid>
-      <description>&lt;h2 id=&#34;week-0&#34;&gt;Week 0&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;start&#34;&gt;Start&lt;/h2&gt;
 &lt;h3 id=&#34;jan-4-2025&#34;&gt;Jan 4, 2025&lt;/h3&gt;
 &lt;p&gt;At the beginning of 2025, now I start to learn UC Berkeley &lt;strong&gt;CS 61B&lt;/strong&gt; , which I have been looking forward to for a long time.&lt;/p&gt;
 &lt;p&gt;I plan to keep a record on my progress.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;week-1&#34;&gt;Week 1&lt;/h2&gt;
-&lt;h3 id=&#34;jan-5-2025&#34;&gt;Jan 5, 2025&lt;/h3&gt;
-&lt;h4 id=&#34;lec-1---introduction&#34;&gt;Lec 1 - Introduction&lt;/h4&gt;
+&lt;h3 id=&#34;lec-1---introduction&#34;&gt;Lec 1 - Introduction&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A great feature of 61B: Once you’re done: the confident sense that you can build any software.&lt;/p&gt;
 &lt;p&gt;For most projects, the learning objective is NOT &amp;ldquo;can you write code in Java&amp;rdquo;, but rather &amp;ldquo;&lt;strong&gt;can you develop a solution to a problem from scratch&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;</description>
@@ -175,23 +159,8 @@ Host: www.example.com
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics&#34;&gt;Web mechanics - MDN Web Docs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://nmap.org/ncat/guide/ncat-usage.html&#34;&gt;Ncat User&amp;rsquo;s Guide / Basic usage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=fCtZWGhQBvo&#34;&gt;Git from the inside out&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>2025 Plan</title>
-      <link>https://shuxiu-jia.github.io/posts/2025-plan/</link>
-      <pubDate>Wed, 01 Jan 2025 11:11:08 +0800</pubDate>
-      <guid>https://shuxiu-jia.github.io/posts/2025-plan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024 Summary</title>
-      <link>https://shuxiu-jia.github.io/posts/2024-summary/</link>
-      <pubDate>Wed, 01 Jan 2025 11:10:31 +0800</pubDate>
-      <guid>https://shuxiu-jia.github.io/posts/2024-summary/</guid>
-      <description>&lt;h2 id=&#34;short-general-background&#34;&gt;Short general background&lt;/h2&gt;
-&lt;p&gt;As speaking for the year 2024, it is such a long story to tell. In this year, I prepared for the National College Entrance Examination with my lovely classmates and teachers in Chengdu NO.7 High School; I graduated from high school, and started my next journey as an undergraduate student at PolyU in HK; I explored and self-learned many things in my first semseter, feeling fullfilled.&lt;/p&gt;
-&lt;p&gt;The aboving may seems general and empty, and indeed, there are numerious stories, words and details to tell and recall. For this post, I will leave these stories aside and just say &amp;ldquo;2024 have already been part of me&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
