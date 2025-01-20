@@ -11,25 +11,8 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 19:58:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 18:39:08 +0800</lastBuildDate>
     <atom:link href="https://shuxiu-jia.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Toolbox</title>
-      <link>https://shuxiu-jia.github.io/posts/toolbox/</link>
-      <pubDate>Sat, 04 Jan 2025 19:58:41 +0800</pubDate>
-      <guid>https://shuxiu-jia.github.io/posts/toolbox/</guid>
-      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
-&lt;h3 id=&#34;tracking-my-use-of-time&#34;&gt;tracking my use of time&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;WakaTime: MacOS, IDE&lt;/li&gt;
-&lt;li&gt;Timing: MacOS, pay&lt;/li&gt;
-&lt;li&gt;Calflow: iPhone&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;terminal&#34;&gt;Terminal&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;iTerm2: iTerm2 brings the terminal into the modern age with features you never knew you always wanted.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Cs61b Notes</title>
       <link>https://shuxiu-jia.github.io/posts/cs61b-notes/</link>
